@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['📚_0',['Sistema de Gestão de Livros 📚',['../index.html',1,'']]]
+  ['utilizados_0',['🛠️ Tecnologias e Conceitos Utilizados',['../index.html#autotoc_md2',1,'']]]
 ];
