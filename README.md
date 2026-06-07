@@ -19,3 +19,10 @@ Um sistema de gerenciamento de biblioteca desenvolvido em **Java**, focado na ap
 - **Java (JDK):** Linguagem base do projeto.
 - **POO:** Forte uso de encapsulamento, atributos estáticos, arrays de objetos e manipulação de datas com `LocalDate`.
 - **Java Swing (`JOptionPane`):** Utilizado para a interface de entrada e saída de dados.
+
+## ⚙️ Como executar o projeto localmente
+
+1. Certifique-se de ter o **Java Development Kit (JDK)** instalado na sua máquina.
+2. Clone este repositório no seu terminal:
+   ```bash
+   git clone [https://github.com/DenisAC2/Gestao-De-Livros-Em-Java.git](https://github.com/DenisAC2/Gestao-De-Livros-Em-Java)
