@@ -2,6 +2,6 @@ build/
 dist/
 *.class
 *.jar
-nbproject/private/
-nbproject/project.properties
+nbproject/
 build.xml
+manifest.mf
