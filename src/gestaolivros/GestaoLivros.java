@@ -1,11 +1,22 @@
 package gestaolivros;
 
 import javax.swing.JOptionPane;
-/**
- *
+
+ /**
+ * @brief Ponto de entrada (Main) e interface de usuário do sistema de gestão.
+ * Esta classe é responsável por renderizar a interface gráfica via caixas de diálogo
+ * do JOptionPane, capturar as entradas do usuário, realizar o parse de dados básicos
+ * e rotear as ações para o controlador GenLivro.
  * @author Denis
  */
 public class GestaoLivros {
+	
+	/**
+     * @brief Método principal que inicia o ciclo de vida do aplicativo.
+     * Instancia o gerenciador de livros com uma capacidade fixa e executa o menu interativo
+     * baseado em uma estrutura switch-case dentro de um loop condicional de controle.
+     * @param args Argumentos de linha de comando padrão do Java (não utilizados).
+     */
     public static void main(String[] args) {
         GenLivro genLivro = new GenLivro(10);
 
