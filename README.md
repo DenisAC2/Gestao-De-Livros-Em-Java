@@ -1,5 +1,8 @@
 # Sistema de Gestão de Livros 📚
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluido-brightgreen?style=for-the-badge)
+
 Um sistema de gerenciamento de biblioteca desenvolvido em **Java**, focado na aplicação prática de **Programação Orientada a Objetos (POO)** e gestão de memória em tempo de execução. O sistema interage com o usuário de forma intuitiva através de caixas de diálogo do `JOptionPane`.
 
 ## 🚀 Funcionalidades
